@@ -1,0 +1,1 @@
+Our team migrated the database to a cloud server over the weekend. The new setup cut query times by almost half. Next month we plan to add automatic backups and monitoring.
